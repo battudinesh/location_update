@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">firebase_location</string>
+    <string name="second_button">secondbtn</string>
+    <string name="alarm_fire_every_1_min">alarm_fire_every_1_min</string>
+</resources>
